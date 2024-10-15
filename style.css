@@ -1,0 +1,27 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to bottom,#025959, #012340, #027333 );
+}
+
+main {
+    background-image: linear-gradient(to bottom, #A6A6A6,  #BDBFBF);
+    margin:  auto;
+    
+    border-radius: 20px;
+    padding: 20px;
+    width: 600px;
+    
+}
+
+p {
+    text-align: justify
+}
+
+h1 {
+    text-align: center;
+    color: #027333;
+}
+
+h2 {
+    color: #038C3E;
+}
